@@ -1,2 +1,3 @@
 **SQL Data Analysis Project**
+
 This repository contains collection of SQL scripts that I use to practice and improve my data analysis skills. The queries cover topics like data exploration, KPI calculations, time-based trends, cumulative metrics, and segmentation on relational databases. The goal of this project is to deepen my understanding of SQL for analytics and build a solid portfolio of practical, real-world style queries as a data engineer.
